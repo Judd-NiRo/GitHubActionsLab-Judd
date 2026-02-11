@@ -8,7 +8,7 @@ on:
   workflow_displatch: #put here!!!!
     push:
         branches:
-          -main
+          - main
 
 jobs: 
         build: 
